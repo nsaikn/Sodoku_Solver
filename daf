@@ -1,0 +1,29 @@
+[33mcommit 578ca53fef70ff431a7eb05422ec2ac5df42f680[m
+Author: IBMHACK <schalasani1@myseneca.ca>
+Date:   Wed Mar 1 02:48:08 2017 -0500
+
+    changed display location
+
+[33mcommit bafbf44476bd6ddcc407d4ef0b304a4545b49783[m
+Author: IBMHACK <schalasani1@myseneca.ca>
+Date:   Wed Mar 1 02:39:40 2017 -0500
+
+    completed Version 1 of sudoku solver. functional but not the most efficient
+
+[33mcommit 48c1d57a8476a6172368c3f0a877a67648acf687[m
+Author: IBMHACK <schalasani1@myseneca.ca>
+Date:   Tue Feb 28 20:54:43 2017 -0500
+
+    Made a partially working compare funciton that solves most but not all of the sudoku
+
+[33mcommit 74f7204454203199717dbcc959a18a5a22860a8f[m
+Author: IBMHACK <schalasani1@myseneca.ca>
+Date:   Tue Feb 28 17:56:53 2017 -0500
+
+    created a sudoku input and display funciton
+
+[33mcommit 55d4cefc7bb26f445f1a8e71dab0b5c08b8fe0b2[m
+Author: IBMHACK <schalasani1@myseneca.ca>
+Date:   Fri Feb 24 00:17:27 2017 -0500
+
+    Created the README and main script file
